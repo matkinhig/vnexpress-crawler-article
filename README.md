@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Usage
 ### Crawl article by top comment
-To crawl article in a single type, you must provide number of article in `--articles` flag 
+To crawl article in all type, you must provide number of article in `--articles` flag 
 For example if you run below command:  
 ```bash
 python types_crawler.py --articles=3 --output=.
